@@ -1,0 +1,1 @@
+print("there are many small projects related to python")
