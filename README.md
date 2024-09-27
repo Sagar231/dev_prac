@@ -1,2 +1,2 @@
 # dev_prac
-#why
+practice for devlopment
