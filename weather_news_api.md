@@ -1,7 +1,7 @@
 
 ---
 
-# **Project Documentation: Weather and News Data Fetching, Saving, and Visualization**
+# **Project Documentation: Weather and News Data Fetching, Saving, and Visualization Using python**
 
 ## **Overview**
 This Python project fetches real-time weather data for a specified city and news articles on a specified topic using APIs. It saves the data in an Excel file with separate sheets for weather and news data and visualizes the information using bar charts. The project is structured into several functions for modularity, making it easy to understand and maintain.
